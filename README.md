@@ -3,4 +3,3 @@
 
 ## Browse Toppics
 1. [Software](./software/)
-    - [docker](./software/docker/)
